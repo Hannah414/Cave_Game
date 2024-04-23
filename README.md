@@ -4,6 +4,10 @@ Using Unity's game design platform, I will learn C# while creating a game which 
 
 ## Week 1 - 9/4/23
 
+Decided on a top down view for the game 
+Looked over different sites to find sprites 
+Watched first few tutorials on Unity basics 
+
 ## Week 2 - 9/11/23
 
 ## Week 3 - 9/18/23
