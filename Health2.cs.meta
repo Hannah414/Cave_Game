@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 110e4e77249fe3a4f8e9876ff2474191
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthSO: {fileID: 11400000, guid: 6dd13932da2b4fb49894440290036bc5, type: 2}
+  - Score: {fileID: 11400000, guid: a7847abe5bcab0e40bcd83bb4da8a4eb, type: 2}
+  - healthBar: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
