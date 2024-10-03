@@ -4,7 +4,7 @@ Using Unity's game design platform, I will learn C# while creating a game which 
 
 ## Week 1 - 9/4/23
 
-Decided on a top down view for the game 
+Decided on a top down view for the game  
 
 Looked over different sites to find sprites 
 
